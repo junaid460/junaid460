@@ -63,14 +63,6 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/junaid460/junaid460/output/github-contribution-grid-snake.svg" alt="Contribution Graph">
-</p>
-
----
-
 💡 <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House  
 
 🚀 <b>Thanks for stopping by! Happy coding!</b>
