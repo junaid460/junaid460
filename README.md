@@ -66,7 +66,7 @@
 <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Contribution Graph">
+  <img src="https://raw.githubusercontent.com/junaid460/junaid460/output/github-contribution-grid-snake.svg" alt="Contribution Graph">
 </p>
 
 ---
