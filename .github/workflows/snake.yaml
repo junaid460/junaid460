@@ -1,0 +1,21 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Contribution Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: junaid460
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - name: Push Contribution Graph
+        uses: actions/upload-artifact@v2
+        with:
+          name: contribution-graph
+          path: dist/github-contribution-grid-snake.svg
